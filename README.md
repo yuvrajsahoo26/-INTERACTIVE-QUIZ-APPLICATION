@@ -47,3 +47,6 @@ Practiced creating responsive layouts with pure CSS and efficient event handling
 
 Conclusion:
 This project helped me build strong foundational skills in frontend development and problem-solving. It provided practical experience in developing a real-world application from scratch and strengthened my confidence in working with core web technologies. The guidance from my mentor, Neela Santosh, played a key role in refining my approach to UI/UX and coding standards.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/0507e6e9-9ce0-475f-bf4c-af4f44cebb3f)
+![Image](https://github.com/user-attachments/assets/a270b0a7-3af1-4262-a4cb-0524fb1af195)
